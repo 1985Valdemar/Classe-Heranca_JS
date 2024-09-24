@@ -7,7 +7,9 @@
 
 # 🛠️ Bora Juntar Ferramentas Para Desenvolvimento
 
+
 ## 🚀🕹️🎮 Bora Decolar No Conhecimento em Classes e Herança em JS!
+
 
 <p align="center"> <a href="https://kellab.com.br/" target="_blank">K&L</a> </p>
 
@@ -92,18 +94,25 @@ pf.imprimir();
 pj.imprimir();
 
 ```
+---
 
-### 🛠️ Tecnologia
-## Esse projeto foi desenvolvido com as seguintes tecnologias:
+# 🛠️ Tecnologia
 
-Visual Studio Code
-Git e GitHub
-HTML
-CSS
-JavaScript
+Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
-
+- IDE VisualStudio Code
+- Git e Github
+- HTML
+- CSS
+- JavaScript
+  
+---
 ✍️ Autores
-Valdemar
+- Valdemar
+
+---
+
+Agradecemos por visitar nosso site e esperamos que você para Realizar Seu Sonho! Se tiver alguma pergunta ou feedback, não hesite em entrar em contato conosco.
+
 
 
